@@ -1,0 +1,17 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "@turf/boolean-intersects": "^6.5.0",
+    "@turf/turf": "^6.5.0",
+    "ol": "latest"
+  }
+}
